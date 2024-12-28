@@ -9,12 +9,10 @@
 </head>
 <body>
 
-    <!-- Header -->
     <header class="bg-primary text-white text-center py-3">
         <h1>Myanmar Geologist Society Singapore</h1>
     </header>
 
-    <!-- Navbar -->
     <nav id="navbar" class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">MGS</a>
@@ -31,7 +29,6 @@
         </div>
     </nav>
 
-    <!-- Body Section 1 -->
     <section id="section1" class="py-5 bg-light text-center">
         <div class="container">
             <h2>Body Section 1</h2>
@@ -39,7 +36,6 @@
         </div>
     </section>
 
-    <!-- Body Section 2 -->
     <section id="section2" class="py-5 text-center">
         <div class="container">
             <h2>Body Section 2</h2>
@@ -47,7 +43,6 @@
         </div>
     </section>
 
-    <!-- Body Section 3 -->
     <section id="section3" class="py-5 bg-light text-center">
         <div class="container">
             <h2>Body Section 3</h2>
@@ -55,7 +50,6 @@
         </div>
     </section>
 
-    <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
         <p>&copy; 2024 Myanmar Geologist Society Singapore. All Rights Reserved.</p>
     </footer>
